@@ -1,0 +1,75 @@
+{
+  "nav": {
+    "brand": "شوب أول",
+    "cart": "السلة",
+    "dashboard": "لوحة التحكم",
+    "account": "حسابي"
+  },
+  "home": {
+    "title": "منتجاتنا",
+    "all": "الكل"
+  },
+  "hero": {
+    "badge": "مجموعة جديدة 2025",
+    "title1": "أناقة بلا",
+    "title2": "تنازلات",
+    "subtitle": "اكتشف تشكيلتنا المميزة — ملابس، إلكترونيات، إكسسوارات تُسلَّم خلال 24 ساعة.",
+    "cta": "تسوق الآن",
+    "ctaAdmin": "لوحة التحكم",
+    "stat1value": "+500",
+    "stat1label": "منتج",
+    "stat2value": "+50K",
+    "stat2label": "عميل",
+    "stat3value": "★4.9",
+    "stat3label": "تقييم"
+  },
+  "categories": {
+    "clothing": "ملابس",
+    "shoes": "أحذية",
+    "electronics": "إلكترونيات",
+    "accessories": "إكسسوارات"
+  },
+  "product": {
+    "addToCart": "أضف إلى السلة",
+    "inStock": "في المخزون",
+    "outOfStock": "نفد المخزون"
+  },
+  "cart": {
+    "title": "سلة التسوق",
+    "empty": "سلة التسوق فارغة.",
+    "continueShopping": "متابعة التسوق",
+    "total": "المجموع",
+    "checkout": "إتمام الطلب",
+    "redirecting": "جارٍ التحويل..."
+  },
+  "success": {
+    "title": "تم تأكيد الطلب!",
+    "message": "شكراً لشرائك. ستتلقى بريداً إلكترونياً للتأكيد.",
+    "backToShop": "العودة إلى المتجر"
+  },
+  "admin": {
+    "title": "لوحة تحكم المدير",
+    "products": "المنتجات",
+    "orders": "الطلبات",
+    "revenue": "الإيرادات",
+    "customers": "العملاء",
+    "addProduct": "إضافة منتج",
+    "editProduct": "تعديل",
+    "deleteProduct": "حذف",
+    "recentOrders": "الطلبات الأخيرة",
+    "status": {
+      "pending": "قيد الانتظار",
+      "shipped": "تم الشحن",
+      "delivered": "تم التسليم"
+    }
+  },
+  "account": {
+    "title": "حسابي",
+    "orders": "طلباتي",
+    "noOrders": "لا توجد طلبات حتى الآن.",
+    "orderNumber": "طلب",
+    "date": "التاريخ",
+    "status": "الحالة",
+    "total": "المجموع"
+  }
+}

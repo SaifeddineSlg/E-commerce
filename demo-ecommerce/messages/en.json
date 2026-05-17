@@ -1,0 +1,75 @@
+{
+  "nav": {
+    "brand": "ShopAll",
+    "cart": "Cart",
+    "dashboard": "Dashboard",
+    "account": "My Account"
+  },
+  "home": {
+    "title": "Our Products",
+    "all": "All"
+  },
+  "hero": {
+    "badge": "New collection 2025",
+    "title1": "Style without",
+    "title2": "compromise",
+    "subtitle": "Discover our premium selection — clothing, electronics, accessories delivered in 24h.",
+    "cta": "Shop now",
+    "ctaAdmin": "Dashboard",
+    "stat1value": "500+",
+    "stat1label": "Products",
+    "stat2value": "50K+",
+    "stat2label": "Customers",
+    "stat3value": "4.9★",
+    "stat3label": "Rating"
+  },
+  "categories": {
+    "clothing": "Clothing",
+    "shoes": "Shoes",
+    "electronics": "Electronics",
+    "accessories": "Accessories"
+  },
+  "product": {
+    "addToCart": "Add to Cart",
+    "inStock": "in stock",
+    "outOfStock": "Out of stock"
+  },
+  "cart": {
+    "title": "My Cart",
+    "empty": "Your cart is empty.",
+    "continueShopping": "Continue shopping",
+    "total": "Total",
+    "checkout": "Place order",
+    "redirecting": "Redirecting..."
+  },
+  "success": {
+    "title": "Order confirmed!",
+    "message": "Thank you for your purchase. You will receive a confirmation email.",
+    "backToShop": "Back to shop"
+  },
+  "admin": {
+    "title": "Admin Dashboard",
+    "products": "Products",
+    "orders": "Orders",
+    "revenue": "Revenue",
+    "customers": "Customers",
+    "addProduct": "Add product",
+    "editProduct": "Edit",
+    "deleteProduct": "Delete",
+    "recentOrders": "Recent orders",
+    "status": {
+      "pending": "Pending",
+      "shipped": "Shipped",
+      "delivered": "Delivered"
+    }
+  },
+  "account": {
+    "title": "My Account",
+    "orders": "My orders",
+    "noOrders": "No orders yet.",
+    "orderNumber": "Order",
+    "date": "Date",
+    "status": "Status",
+    "total": "Total"
+  }
+}
